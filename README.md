@@ -49,7 +49,7 @@ Os botões A e B são configurados como entradas PULL UP e monitorados por inter
 ## 🎥 Demonstração do Projeto
 
 Confira o vídeo de funcionamento:
-
+https://youtu.be/90Yr9d6Od5Q
 
 
 ---
